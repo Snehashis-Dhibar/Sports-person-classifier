@@ -1,0 +1,2 @@
+Used a web extension for scrapping images from web:
+https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/efcapamiilmdfbbilogcddbdckjhpajj
